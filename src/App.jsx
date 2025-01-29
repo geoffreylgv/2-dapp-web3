@@ -74,6 +74,8 @@ function App() {
     setLoading(false);
   };
 
+  console.log(tasks);
+
   return (
     <div className="app-container">
       <header className="app-header">
